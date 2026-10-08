@@ -1,9 +1,9 @@
 {
-  "sourceRevision": "dd4d6d1218e1e140860d65640d4e8f6f9e6838e0",
-  "builtAt": "2026-10-08T12:30:03.585Z",
+  "sourceRevision": "bbdad8e9ffa29c5ca6717fbb1832515fe80b0277",
+  "builtAt": "2026-10-08T20:22:46.318Z",
   "files": {
-    "index.html": "4c2b879bb1dfddc0d2a39c77d7aea84460664d7f2c11007499476d49486a2d4f",
-    "standalone.html": "4c2b879bb1dfddc0d2a39c77d7aea84460664d7f2c11007499476d49486a2d4f",
+    "index.html": "2cb29cb2dcbc4b73b15bd2a19990e3cb4ffbd2c77378c6152e73223200740309",
+    "standalone.html": "2cb29cb2dcbc4b73b15bd2a19990e3cb4ffbd2c77378c6152e73223200740309",
     "responsive.html": "f02b6dfd45648f103121e1932c44163ede234ba8e1d6ec87074cf4cad81e787b",
     "h5.html": "38a742b37fd908b9abdf25340a5d3049062de2b7bd65f2987b419559cd04b8a0"
   }
