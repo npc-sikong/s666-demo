@@ -1,10 +1,12 @@
 {
-  "sourceRevision": "2d979d3a86ae6f596e75bffbcbee32039651dc39",
-  "builtAt": "2026-10-09T08:57:26.358Z",
+  "sourceRevision": "d3ec0077798c98dcd9e3cfbe201efe0c11f90617",
+  "builtAt": "2026-10-10T20:36:02.781Z",
   "files": {
-    "index.html": "8a6c0777a8c86584cb2a180d4e712abcb00a8d679844640746d19e9aba95a206",
-    "standalone.html": "8a6c0777a8c86584cb2a180d4e712abcb00a8d679844640746d19e9aba95a206",
-    "responsive.html": "f02b6dfd45648f103121e1932c44163ede234ba8e1d6ec87074cf4cad81e787b",
-    "h5.html": "38a742b37fd908b9abdf25340a5d3049062de2b7bd65f2987b419559cd04b8a0"
+    "index.html": "d7d19df8cde6d2a2a6c759e4492a3d677f62ebc4e353ab2f1c058ad1ecd13467",
+    "standalone.html": "d7d19df8cde6d2a2a6c759e4492a3d677f62ebc4e353ab2f1c058ad1ecd13467",
+    "responsive.html": "7e1613b9dd2c40a24f56024d1eaad29c83211150201c26dcd26cfbe5e547eaaf",
+    "h5.html": "7e2b0e62c06962aabedcd972c68dbee08e8141e81f39111f94abad9868fbcde1",
+    "ios.html": "b618828e000c1045a9e2b721a666be8a9a2122693cf5a1375fafe4d4d2e8c084",
+    "android.html": "be10eb0c7ce8294d0316d3bf1cda7e082e1ee41b2289a414be04dd2cee935038"
   }
 }
