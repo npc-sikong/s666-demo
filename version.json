@@ -1,9 +1,9 @@
 {
-  "sourceRevision": "d3ec0077798c98dcd9e3cfbe201efe0c11f90617",
-  "builtAt": "2026-10-10T20:36:02.781Z",
+  "sourceRevision": "32ff8e7dca3e4604c9c77c16c14a7c6440ae20b6",
+  "builtAt": "2026-10-12T21:34:21.045Z",
   "files": {
-    "index.html": "d7d19df8cde6d2a2a6c759e4492a3d677f62ebc4e353ab2f1c058ad1ecd13467",
-    "standalone.html": "d7d19df8cde6d2a2a6c759e4492a3d677f62ebc4e353ab2f1c058ad1ecd13467",
+    "index.html": "aec0a89788b09ee79d88593098f670717206af216c83d15ab0a29da929642f52",
+    "standalone.html": "aec0a89788b09ee79d88593098f670717206af216c83d15ab0a29da929642f52",
     "responsive.html": "7e1613b9dd2c40a24f56024d1eaad29c83211150201c26dcd26cfbe5e547eaaf",
     "h5.html": "7e2b0e62c06962aabedcd972c68dbee08e8141e81f39111f94abad9868fbcde1",
     "ios.html": "b618828e000c1045a9e2b721a666be8a9a2122693cf5a1375fafe4d4d2e8c084",
